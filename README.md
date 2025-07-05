@@ -36,16 +36,6 @@
 
 ---
 
-### 🚀 Projects
-
-- **MindMend — AI-Powered Mental Health Companion**
-  - Engineered a full-stack platform supporting holistic mental wellness with real-time therapist access, emotional tracking, and peer support.
-  - Developed a custom emotional chatbot using a BiLSTM + RNN sentiment analysis model (accuracy: 93.6% on test set) trained on 10,000+ mental health conversations.
-  - Enabled collaborative features including multiplayer mental-health games, journaling, and secure peer-to-peer audio/video calls with licensed therapists.
-  - **Tools & Technologies:** ReactJS, TailwindCSS, Node.js, Express.js, MongoDB, Socket.IO, WebRTC, Firebase
-
----
-
 ### 🧰 Tech Stack Showcase
 
 <p align="left">
