@@ -38,25 +38,6 @@
   - **Stack:** Python, Flask, SQL, Grafana, TailwindCSS, Pandas, LSTM
 
 ---
-
-### 🧠 Projects
-
-- **MindMend** — *AI Mental Health Companion*  
-  Full-stack wellness app with therapist access, emotion tracking, and real-time peer games.
-  - Achieved **93.6% test accuracy** on 10k+ emotional conversations using BiLSTM + RNN.
-  - Used: ReactJS, MongoDB, WebRTC, Firebase, TailwindCSS, TensorFlow, PyTorch
-
-- **DualView BMI** — *Facial Analysis from Dual Perspectives*  
-  ML system for BMI and gender prediction from side+front facial images.
-  - Outperformed ResNet & MobileNet-V2 with **MAE: 0.70**, **PCC: 0.92**.
-  - Stack: MTCNN, FaceNet, XGBoost, Flask, PyTorch, TensorFlow
-
-- **YelpCamp Clone** — *Full-stack campground discovery platform*  
-  - Secure user auth, role-based dashboards, Mapbox integration, and AI recommendations.
-  - Stack: Node.js, Express, MongoDB, Passport.js, Mapbox, Python
-
----
-
 ### 🧰 Tech Stack
 
 <p align="left">
@@ -81,15 +62,7 @@
 
 ---
 
-### 🏅 Achievements
 
-- 🧩 Knight on LeetCode (Top 4.24%, 600+ problems)
-- 🥈 12th nationwide – Shaastra Speed Programming (IIT Madras)
-- 🏆 Highest CGPA in CSE @ IIITDM
-- 💻 Core Member – CP Club (Led 6 contests, 5 teaching sessions)
-- 🛠 ICPC Backend Team – Regional contest support
-
----
 
 ### 📫 Let's Connect
 
